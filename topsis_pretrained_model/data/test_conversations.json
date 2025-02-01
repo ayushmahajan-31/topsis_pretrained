@@ -1,0 +1,10 @@
+[
+    {
+        "user_input": "How's the weather today?",
+        "reference_response": "It's sunny and warm today."
+    },
+    {
+        "user_input": "What is AI?",
+        "reference_response": "AI stands for Artificial Intelligence."
+    }
+]

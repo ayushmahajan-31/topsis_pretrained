@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate
+matplotlib
+numpy
+pandas
+pipenv lock -r > requirements.txt

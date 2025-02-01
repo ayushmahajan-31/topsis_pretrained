@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+torch = "*"
+evaluate = "*"
+transformers = "*"
+matplotlib = "*"
 
 [dev-packages]
 
